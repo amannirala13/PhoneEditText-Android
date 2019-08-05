@@ -60,7 +60,7 @@ String code = myPhoneEditText.getDIAL_CODE();
 - Dial code can be changed on the wish of the user
 - Full support of TextInputEditText
 
-###Limitations
+### Limitations
 - Sets the country code to default +91 when the device is on a WiFi network
 
 
