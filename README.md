@@ -57,7 +57,7 @@ String code = myPhoneEditText.getDIAL_CODE();
 - No drop down lists.
 - No user based inputs
 - No predictive definations of dial codes.
-- Dial code can be changed on the wish of the user
+- Dial code can be changed upon the wish of the user
 - Full support of TextInputEditText
 
 ### Limitations
