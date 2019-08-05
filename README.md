@@ -1,7 +1,7 @@
 # PhoneEditText-Android
 
-Phone Edit Text makes it easy for you to handeling country codes in Phone number fields of your android application.
-Phone Edit Text identifies your country and sets its respective dial code automatically.
+PhoneEditText makes it easy for you to handeling country codes in Phone number fields of your android application.
+PhoneEditText identifies your country and sets its respective dial code automatically.
 
 ![](demo.gif)
 
@@ -62,8 +62,3 @@ String code = myPhoneEditText.getDIAL_CODE();
 
 ### Limitations
 - Sets the country code to default +91 when the device is on a WiFi network
-
-
-
-
-
