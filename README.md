@@ -23,7 +23,7 @@ Add the Phone Edit Text Dependency to **App** level **build.gradel** file
 			}
 
 
-###Jcenter
+### Jcenter
 Add the dependency to **App** level **build.gradel** file
 
     compile 'com.asdev.PhoneEditText-Android:PhoneEditText-Android:Tag'
