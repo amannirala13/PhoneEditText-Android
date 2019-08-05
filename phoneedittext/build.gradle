@@ -1,4 +1,15 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
+publish {
+    userOrg = 'amannirala13'
+    groupId = 'com.asdev.PhoneEditText-Android'
+    artifactId = 'PhoneEditText-Android'
+    publishVersion = '1.0.2'
+    repoName = 'PhoneEditText-Android'
+    desc = 'Get automatic country code ready EditText for your Phone number field. This EditText detects country code automatically and sets it into the EditText.'
+    website = 'https://github.com/amannirala13/PhoneEditText-Android'
+}
 
 android {
     compileSdkVersion 28
@@ -16,12 +27,16 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
         }
     }
 
 }
+
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
@@ -32,5 +47,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.android.support:support-compat:28.0.0'
     implementation 'com.google.android.material:material:1.1.0-alpha09'
+
 
 }

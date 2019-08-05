@@ -1,9 +1,8 @@
-apply plugin: 'com.android.application'
-
+apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.asdev.myapplication"
+
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
@@ -12,8 +11,11 @@ android {
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
         }
     }
 }
@@ -27,4 +29,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.android.support:support-compat:28.0.0'
     implementation 'com.google.android.material:material:1.1.0-alpha09'
+    implementation 'com.asdev.PhoneEditText-Android:PhoneEditText-Android:1.0.2'
 }
