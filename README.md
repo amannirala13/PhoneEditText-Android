@@ -1,6 +1,6 @@
 # PhoneEditText-Android
 
-PhoneEditText makes it easy for you to handeling country codes in Phone number fields of your android application.
+PhoneEditText makes it easy for you to hande country codes in Phone number fields of your android application.
 PhoneEditText identifies your country and sets its respective dial code automatically.
 
 ![](demo.gif)
