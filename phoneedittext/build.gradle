@@ -5,7 +5,7 @@ publish {
     userOrg = 'amannirala13'
     groupId = 'com.asdev.PhoneEditText-Android'
     artifactId = 'PhoneEditText-Android'
-    publishVersion = '1.0.2'
+    publishVersion = '1.1.0'
     repoName = 'PhoneEditText-Android'
     desc = 'Get automatic country code ready EditText for your Phone number field. This EditText detects country code automatically and sets it into the EditText.'
     website = 'https://github.com/amannirala13/PhoneEditText-Android'
@@ -27,11 +27,8 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
-        debug {
             minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
 
