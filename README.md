@@ -16,6 +16,7 @@ Add JitPack to your **Project** level **build.gradle** file
 					maven { url 'https://jitpack.io' }
 				}
 			}
+			
 Add the Phone Edit Text Dependency to **App** level **build.gradel** file
 
 		dependencies {
