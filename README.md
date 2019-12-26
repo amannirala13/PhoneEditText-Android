@@ -63,3 +63,6 @@ String code = myPhoneEditText.getDIAL_CODE();
 
 ### Limitations
 - Sets the country code to default +91 when the device is on a WiFi network
+
+### Support
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/amannirala13)
