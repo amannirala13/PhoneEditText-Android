@@ -20,6 +20,7 @@ Add JitPack to your **Project** level **build.gradle** file
 Add the Phone Edit Text Dependency to **App** level **build.gradel** file
 
 		dependencies {
+					implementation 'com.google.android.material:material:1.1.0-alpha09'
 					implementation 'com.github.amannirala13:PhoneEditText-Android:Tag'
 			}
 
@@ -27,7 +28,8 @@ Add the Phone Edit Text Dependency to **App** level **build.gradel** file
 ### Jcenter
 Add the dependency to **App** level **build.gradel** file
 
-    compile 'com.asdev.PhoneEditText-Android:PhoneEditText-Android:Tag'
+    implementation 'com.google.android.material:material:1.1.0-alpha09'
+    implementation 'com.asdev.PhoneEditText-Android:PhoneEditText-Android:Tag'
 
 #### Version Tag
 [![](https://jitpack.io/v/amannirala13/PhoneEditText-Android.svg)](https://jitpack.io/#amannirala13/PhoneEditText-Android)
