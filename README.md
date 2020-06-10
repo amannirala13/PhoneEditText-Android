@@ -11,7 +11,6 @@ PhoneEditText identifies your country and sets its respective dial code automati
 <a href="https://github.com/amannirala13/PhoneEditText-Android/stargazers"><img alt = "stars-badge" src="https://img.shields.io/github/stars/amannirala13/PhoneEditText-Android?color=yellow"></a>
 <a href="https://github.com/amannirala13/PhoneEditText-Android/watchers"><img alt="watcher-badge" src="https://img.shields.io/github/watchers/amannirala13/PhoneEditText-Android?color=teal"></a>
 <a href="https://github.com/amannirala13/PhoneEditText-Android/archive/master.zip"><img alt = "repo_size-badge" src="https://img.shields.io/github/repo-size/amannirala13/PhoneEditText-Android"></a>
-<a href=""><img src=""></a>
 </p>
 
 <p align="center">
