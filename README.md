@@ -3,9 +3,9 @@
 PhoneEditText makes it easy for you to handel country codes in Phone number fields of your android application.
 PhoneEditText identifies your country and sets its respective dial code automatically.
 
-![](demo.gif)
-
 ## How to use?
+
+![](demo.gif)
 
 ### Jitpack
 Add JitPack to your **Project** level **build.gradle** file
