@@ -15,7 +15,7 @@ PhoneEditText identifies your country and sets its respective dial code automati
 </p>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/github/license/amannirala13/PhoneEditText-Android"></a>
+<a href="https://app.fossa.com/reports/a1e8a7ce-7cf4-46fb-857b-54dc0288a448"><img src="https://img.shields.io/github/license/amannirala13/PhoneEditText-Android"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android.svg?type=shield"/></a>
 </p>
 
@@ -91,8 +91,7 @@ String code = myPhoneEditText.getDIAL_CODE();
 ### Support
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/amannirala13)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android?ref=badge_shield)
-
 
 ## License
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android?ref=badge_large)
