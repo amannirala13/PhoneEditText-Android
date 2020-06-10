@@ -91,3 +91,8 @@ String code = myPhoneEditText.getDIAL_CODE();
 ### Support
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/amannirala13)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Famannirala13%2FPhoneEditText-Android?ref=badge_large)
