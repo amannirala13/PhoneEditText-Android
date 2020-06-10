@@ -49,10 +49,6 @@ Add the dependency to **App** level **build.gradel** file
     implementation 'com.google.android.material:material:1.1.0-alpha09'
     implementation 'com.asdev.PhoneEditText-Android:PhoneEditText-Android:1.1.1'
 
-#### Version Tag
-
-[![](https://jitpack.io/v/amannirala13/PhoneEditText-Android.svg)](https://jitpack.io/#amannirala13/PhoneEditText-Android)
-
 ### Using in XML layout
 
 ```xml
